@@ -1,25 +1,11 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+title = "關於我們"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = ""
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+社團法人臺灣教育協會為依法設立，由一群關心教育事務的青年共同組織，以推動教育，保障及增進學習者之權利，促進教育融合，關懷個體於社會及教育之處境，維護非主流群體權益，消解社會結構與教育體制之不平等為宗旨。
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Taiwan Education Association (TEA) is a non-government organization
+founded in 2021. It has been committed to promoting education, ensuring and enhancing the rights of the learners. In addition, it creates an inclusive learning environment in order to protect the rights of marginalized groups and to eliminate the inequalities regarding the social structure and education system.

@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: "聯絡我們"
 ---
 
-To contact us, please fill out the form below.
-
-{{< form >}}
+社團法人臺灣教育協會  
+104095 台北市中山區南京東路二段 140 號 6 樓  
+(02) 2508-0218

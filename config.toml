@@ -1,5 +1,5 @@
 baseURL = "https://twedua.github.io"
-title = "Tella"
+title = "臺灣教育協會"
 author = "twedua"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -21,15 +21,15 @@ hasCJKLanguage = true
   mainSections = ['blog']
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/1.png"
+    alt = "TWEDUA Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = ""
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -49,37 +49,27 @@ hasCJKLanguage = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "about"
+    name = "關於我們"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
+    identifier = "最新消息"
+    name = "最新消息"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "contact"
+    name = "聯絡我們"
+    url = "/contact/"
     weight = 3
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
   # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-      weight = 1
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/twedua"
     pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+      weight = 1
