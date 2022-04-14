@@ -6,7 +6,7 @@
     <description>Recent content on 臺灣教育協會</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://twedua.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://twedua.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Project</title>
       <link>https://twedua.github.io/products/example/</link>
@@ -14,6 +14,16 @@
       
       <guid>https://twedua.github.io/products/example/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi.</description>
+    </item>
+    
+    <item>
+      <title>網站上線</title>
+      <link>https://twedua.github.io/blog/website-launch/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://twedua.github.io/blog/website-launch/</guid>
+      <description>&lt;p&gt;臺灣教育協會官網已於 4/14 上線。&lt;/p&gt;
+&lt;p&gt;臺灣教育協會使用 Hugo 框架及 Tella 主題並架設於 GitHub Page，日後會在此網站更新協會相關訊息。&lt;/p&gt;</description>
     </item>
     
     <item>
