@@ -36,15 +36,15 @@ hasCJKLanguage = true
     fa5 = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "臺灣教育協會官方網站"
+    meta_og_title = "臺灣教育協會"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_og_url = "https://www.edu.org"
+    meta_og_image = "https://twedua.github.io/img/slide/second_time_meetup.jpg"
+    meta_og_description = "社團法人臺灣教育協會為依法設立，由一群關心教育事務的青年共同組織，以推動教育，保障及增進學習者之權利，促進教育融合，關懷個體於社會及教育之處境，維護非主流群體權益，消解社會結構與教育體制之不平等為宗旨。"
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
 
 [menu]
 
