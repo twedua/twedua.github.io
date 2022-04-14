@@ -1,4 +1,75 @@
-baseURL = 'twedua.github.io'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+baseURL = "https://twedua.github.io"
+title = "臺灣教育協會"
+author = "twedua"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
+
+[params]
+
+  mainSections = ['blog']
+
+  [params.logo]
+    main = "img/logo/twedua-large.png"
+    alt = "TWEDUA Logo"
+
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+
+  [params.site]
+    name = ""
+
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fa5 = true
+
+  [params.homepage_meta_tags]
+    meta_description = "臺灣教育協會官方網站"
+    meta_og_title = "臺灣教育協會"
+    meta_og_type = "website"
+    meta_og_url = "https://www.edu.org"
+    meta_og_image = "https://twedua.github.io/img/logo/twedua-large.png"
+    meta_og_description = "社團法人臺灣教育協會為依法設立，由一群關心教育事務的青年共同組織，以推動教育，保障及增進學習者之權利，促進教育融合，關懷個體於社會及教育之處境，維護非主流群體權益，消解社會結構與教育體制之不平等為宗旨。"
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "關於我們"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "最新消息"
+    name = "最新消息"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "聯絡我們"
+    url = "/contact/"
+    weight = 3
+
+  # Footer Menu
+
+  [[menu.footer]]
+    name = "Github"
+    url = "https://github.com/twedua"
+    pre = "<i class='icon-github text-2xl'></i>"
+      weight = 1

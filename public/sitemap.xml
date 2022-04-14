@@ -2,17 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/post/first_post/</loc>
-    <lastmod>2022-04-10T16:16:12+08:00</lastmod>
+    <loc>https://twedua.github.io/products/example/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-04-10T16:16:12+08:00</lastmod>
+    <loc>https://twedua.github.io/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2022-04-10T16:16:12+08:00</lastmod>
+    <loc>https://twedua.github.io/tags/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://twedua.github.io/tags/website/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://twedua.github.io/blog/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://twedua.github.io/blog/website-launch/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://twedua.github.io/products/</loc>
+    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+  </url><url>
+    <loc>https://twedua.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://twedua.github.io/categories/</loc>
+  </url><url>
+    <loc>https://twedua.github.io/tags/index/</loc>
+  </url><url>
+    <loc>https://twedua.github.io/contact/</loc>
   </url>
 </urlset>
