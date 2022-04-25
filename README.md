@@ -8,18 +8,30 @@ TWEDUA official website use Hugo framework and hosting on github page.
 # Clone repository
 git clone https://github.com/twedua/twedua.github.io.git
 
-# Update submodule
+# Clone submodule
 git submodule update --recursive --remote
 
 # Install dependency
 yarn install
 
-# Start server
+# Run local server
 yarn start
 
 # Open browser
 open http://localhost:1313
 ```
+
+## Frequency use Hugo commands
+
+```
+# Build website (public folder)
+hugo
+
+# Start hugo server with draft file
+hugo server -D
+```
+
+[Hugo Commands](https://gohugo.io/commands/hugo/)
 
 ## Theme
 
@@ -27,4 +39,4 @@ open http://localhost:1313
 
 ## License
 
-TWEDUA official website use MIT as license, [click here](./LICENSE) for details.
+TWEDUA official website use MIT license, [click here](./LICENSE) for details.
