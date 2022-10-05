@@ -9,3 +9,13 @@ author = ""
 
 Taiwan Education Association (TEA) is a non-government organization
 founded in 2021. It has been committed to promoting education, ensuring and enhancing the rights of the learners. In addition, it creates an inclusive learning environment in order to protect the rights of marginalized groups and to eliminate the inequalities regarding the social structure and education system.
+
+## 本會任務
+
+一、教育政策倡議。  
+二、國際人權公約推展與落實。  
+三、兒少、學生、障礙者及一切非主流群體權益保障。  
+四、教育訓練及培力活動辦理。  
+五、教育研究與國際交流。  
+六、教育資訊之傳播。  
+七、其他有助於實踐本會宗旨事項。
