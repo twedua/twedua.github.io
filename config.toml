@@ -69,7 +69,14 @@ hasCJKLanguage = true
   # Footer Menu
 
   [[menu.footer]]
+    identifier = "charter"
+    name = "協會章程"
+    url = "/charter/"
+    weight = 1
+
+  [[menu.footer]]
     name = "Github"
     url = "https://github.com/twedua"
     pre = "<i class='icon-github text-2xl'></i>"
-      weight = 1
+    weight = 2
+
