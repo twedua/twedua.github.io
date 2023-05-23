@@ -2,7 +2,7 @@
 author="陳建穎"
 title="2023「學習歷程檔案面對面座談會」現正報名中！"
 date="2023-05-22"
-image="img/article/2023portfolioCoverPhoto.png"
+image="img/article/2023-portfolio-cover-photo.png"
 description="活動資訊"
 tags=["學習歷程檔案", "大學入學", "考招", "十二年國教", "教育改革", "座談會"]
 +++
@@ -79,3 +79,5 @@ tags=["學習歷程檔案", "大學入學", "考招", "十二年國教", "教育
 ### 檔案下載
 
 - [活動簡章](https://drive.google.com/file/d/1ZpbT52K8rzHdd-usBYc8ZG02d9CE1Bm5/view)
+
+![](../../img/article/2023-portfolio-poster.png)
