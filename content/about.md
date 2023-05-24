@@ -19,3 +19,8 @@ founded in 2021. It has been committed to promoting education, ensuring and enha
 五、教育研究與國際交流。  
 六、教育資訊之傳播。  
 七、其他有助於實踐本會宗旨事項。
+
+## 登記字號
+
+立案證書：內政部中華民國 110 年 11 月 25 日台內團字第 1100054638 號  
+法人登記：[臺灣臺北地方法院 110 年度法登社字第 197 號（登記號數：第 3959 號）](https://www.judicial.gov.tw/tw/cp-144-558709-0f768-1.html)
