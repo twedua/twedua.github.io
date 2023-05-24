@@ -79,5 +79,8 @@ tags=["學習歷程檔案", "大學入學", "考招", "十二年國教", "教育
 ### 檔案下載
 
 - [活動簡章](https://drive.google.com/file/d/1ZpbT52K8rzHdd-usBYc8ZG02d9CE1Bm5/view)
+- [活動海報](https://drive.google.com/file/d/1H1ZfmKkXVdukMkBa58BHBtw5q-F9vrSj/view?usp=share_link)
+- [活動海報報讀檔](https://drive.google.com/file/d/1SSYDPiu49IvU82Bswz4GQ9QHEUozuOWf/view?usp=share_link)
 
 ![2023-portfolio-poster](../../img/article/2023-portfolio-poster.png)
+
