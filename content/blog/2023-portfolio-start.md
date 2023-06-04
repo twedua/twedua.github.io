@@ -88,5 +88,3 @@ https://forms.gle/ui7fbmonsUNcG8zw8
 - [活動海報報讀檔](https://drive.google.com/file/d/1SSYDPiu49IvU82Bswz4GQ9QHEUozuOWf/view)
 
 ![2023-portfolio-poster](../../img/article/2023-portfolio-poster.png)
-
-<span style="color: red;">text</span>
