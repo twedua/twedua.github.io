@@ -10,11 +10,10 @@ tags=["學習歷程檔案", "大學入學", "考招", "十二年國教", "教育
 ## 社團法人臺灣教育協會「學習歷程檔案面對面座談會」學生報名中
 
 ### 學生報名連結
+
 https://forms.gle/ui7fbmonsUNcG8zw8
 
-```diff
-+更新：學生報名延長至 6/16 (五) 截止，歡迎踴躍報名參與！
-```
+{{< color "green" "更新：學生報名延長至 6/16 (五) 截止，歡迎踴躍報名參與！"  >}}
 
 ### 一、目的
 
@@ -90,3 +89,4 @@ https://forms.gle/ui7fbmonsUNcG8zw8
 
 ![2023-portfolio-poster](../../img/article/2023-portfolio-poster.png)
 
+<span style="color: red;">text</span>
