@@ -2,7 +2,6 @@
 author="陳建穎"
 title="學習歷程檔案面對面座談會 各區錄取通知"
 date="2023-06-19"
-image="img/article/"
 description="學習歷程檔案面對面座談會各區錄取通知"
 tags=[
 "學習歷程檔案面對面座談會"
