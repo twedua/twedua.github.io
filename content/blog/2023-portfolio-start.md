@@ -1,6 +1,6 @@
 +++
 author="陳建穎"
-title="2023「學習歷程檔案面對面座談會」現正報名中！"
+title="2023「學習歷程檔案面對面」現正報名中！"
 date="2023-05-22"
 image="img/article/2023-portfolio-cover-photo.png"
 description="活動資訊"
