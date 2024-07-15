@@ -8,12 +8,14 @@ tags=["學習歷程","面對面"]
 
 ## 報名連結
 
-- [臺北明倫高中](https://forms.gle/eEwpoxbdYqtNJ53XA)-6/16(六) 12:30-15:30
-- [金門場](https://forms.gle/v2BfVLaAnabafKEi6)　　　-6/23(日)8:30-11:30
-- [臺中臺中二中](https://forms.gle/pyc78u5qV4Wxov1LA)-7/3(三) 13:00-16:00
-- [臺東高中]　　-7/18(四)13:00-16:00
-- [嘉義興華高中]-7/26(五)13:00-16:00
-- [苗栗君毅高中]-7/29(一)13:00-16:00
+- [臺北明倫高中](https://forms.gle/eEwpoxbdYqtNJ53XA) - 6/16（六）12:30-15:30
+- [金門場](https://forms.gle/v2BfVLaAnabafKEi6) - 6/23（日）8:30-11:30
+- [臺中臺中二中](https://forms.gle/pyc78u5qV4Wxov1LA) - 7/3（三） 13:00-16:00
+- [臺東高中](https://forms.gle/gvP4cqi9PQQCothh9) - 7/18（四） 13:00-16:00
+- [嘉義興華高中](https://forms.gle/VYPKwfv1wkcPx1dY7) - 7/26（五）13:00-16:00
+- [臺南二中](https://forms.gle/YSz4mEC2xQZrnnUo8) - 7/27 （六）09:00-12:00
+- [苗栗君毅高中](https://forms.gle/hPX9Fso5rK1SfYqW9) - 7/29（一）13:00-16:00
+- [高雄中學](https://forms.gle/HXAuZFsyNEJRjB1G6) - 7/31（三）13:00-16:00
 
 其他地區場次陸續上線中~
 
