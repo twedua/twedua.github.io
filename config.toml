@@ -1,5 +1,5 @@
 baseURL = "http://twedua.github.io"
-title = "臺灣教育協會"
+title = "社團法人臺灣教育協會"
 author = "twedua"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -36,8 +36,8 @@ hasCJKLanguage = true
     fa5 = true
 
   [params.homepage_meta_tags]
-    meta_description = "臺灣教育協會官方網站"
-    meta_og_title = "臺灣教育協會"
+    meta_description = "社團法人臺灣教育協會官方網站"
+    meta_og_title = "社團法人臺灣教育協會"
     meta_og_type = "website"
     meta_og_url = "https://www.edu.org"
     meta_og_image = "https://twedua.github.io/img/logo/twedua-large.png"
